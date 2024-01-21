@@ -398,12 +398,14 @@ background-color: rgb(38 21 45 / 51%);
 }
 
 .work-description {
+  font-weight: bold;
   width: 100%;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   margin-bottom: 60px;
   display: flex;
+  font-style: italic;
 }
 
 .works-grid {
