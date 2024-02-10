@@ -2236,9 +2236,9 @@ textarea.w-input, textarea.w-select {
   margin-left: 30px;
   margin-right: auto;
   font-size: 35px;
-  font-style: italic;
-  color: gold;
-  font-family: fangsong;
+  font-style: normal;
+  color: #d7ae06;
+  font-family: revert;
 }
 
 .body {
@@ -2816,7 +2816,7 @@ html {
 
 .body,html {
   min-height: 100%;
-  color: #333;
+  color: aliceblue;
   background: linear-gradient(235deg, #2c0b21, #91b2b5, #220d2c);
   background-size:100% 100%;
   margin: 0;
