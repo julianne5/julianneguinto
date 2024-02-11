@@ -382,11 +382,11 @@ background-color: rgb(38 21 45 / 51%);
 
 .name-text {
   padding: 20px;
-  font-size: 50px;
-  font-weight: 400;
+  font-size: 56px;
+  font-weight: 700;
   line-height: 34px;
   text-align: center;
-  font-family: inherit;
+  font-family: monospace;
 }
 
 .position-name-text {
